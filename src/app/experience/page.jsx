@@ -33,15 +33,15 @@ function Experience() {
               <ul className="font-semibold text-gray-600 space-y-4">
                 <li className="flex items-start gap-2">
                   <FaCheck className="text-green-600 mt-1" />
-                  Created <span className="text-purple-700">&nbsp;mobile-friendly UIs</span> using React & Tailwind.
+                  Created <span className="text-purple-700">mobile-friendly UIs</span> using React & Tailwind.
                 </li>
                 <li className="flex items-start gap-2">
                   <FaCheck className="text-green-600 mt-1" />
-                  Connected frontend with <span className="text-purple-700">&nbsp;Express APIs</span>.
+                  Connected frontend with <span className="text-purple-700">Express APIs</span>.
                 </li>
                 <li className="flex items-start gap-2">
                   <FaCheck className="text-green-600 mt-1" />
-                  Set up <span className="text-purple-700">&nbsp;login/signup</span> using Firebase Auth.
+                  Set up <span className="text-purple-700">login/signup</span> using Firebase Auth.
                 </li>
                 <li className="flex items-start gap-2">
                   <FaCheck className="text-green-600 mt-1" />
@@ -49,7 +49,7 @@ function Experience() {
                 </li>
                 <li className="flex items-start gap-2">
                   <FaCheck className="text-green-600 mt-1" />
-                  Hosted apps on <span className="text-purple-700">&nbsp;Vercel & Google Cloud</span>.
+                  Hosted apps on <span className="text-purple-700">Vercel & Google Cloud</span>.
                 </li>
               </ul>
             </div>
