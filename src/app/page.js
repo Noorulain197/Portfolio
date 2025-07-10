@@ -43,7 +43,7 @@ export default function Home() {
               {/* LEFT CONTENT */}
               <div>
                 <span className="flex items-center text-lg font-semibold mb-2">
-                  Hey, I am&nbsp;
+                  Hey, I am
                   <span className="text-purple-700 font-bold flex items-center">
                     Noor
                     <FaHandsClapping className="text-yellow-500 ml-2 text-xl" />
@@ -92,7 +92,7 @@ export default function Home() {
                 About me<span className="text-purple-900">.</span>
               </h1>
               <p className="font-semibold text-gray-500 my-4">
-                Developing beautiful and functional websites is what I love doing, and that&apos;s why I give my all in every new challenge.
+                Developing beautiful and functional websites is what I love doing,why I give my all in every new challenge.
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
