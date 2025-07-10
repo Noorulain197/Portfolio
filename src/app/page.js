@@ -57,7 +57,7 @@ export default function Home() {
 
                 <p className="font-semibold text-gray-500 my-4">
                   I am a fullstack developer based in Pakistan.<br />
-                  I'll help you build beautiful websites your users will love.
+                  I Will help you build beautiful websites your users will love.
                 </p>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -92,7 +92,7 @@ export default function Home() {
                 About me<span className="text-purple-900">.</span>
               </h1>
               <p className="font-semibold text-gray-500 my-4">
-                Developing beautiful and functional websites is what I love doing, and that's why I give my all in every new challenge.
+                Developing beautiful and functional websites is what I love doing, and thats why I give my all in every new challenge.
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
