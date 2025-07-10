@@ -17,7 +17,7 @@ export default function Home() {
       <div className="bg-white w-full h-screen">
         <div className="bg-gradient-to-br from-white via-purple-200 to-purple-900 w-full h-screen flex items-center justify-center">
           <div className="w-[1000px] bg-white rounded-xl shadow-lg px-10 py-[50px] mb-8 text-gray-800">
-            
+
             {/* HEADER */}
             <header className="bg-white shadow grid grid-cols-3 items-center">
               <div className="flex items-center">
@@ -34,7 +34,7 @@ export default function Home() {
                 </ul>
               </div>
               <div className="flex justify-end text-4xl text-purple-600">
-              <Link href='/message'> <AiFillMessage /></Link>  
+                <Link href='/message'> <AiFillMessage /></Link>
               </div>
             </header>
 
@@ -92,7 +92,7 @@ export default function Home() {
                 About me<span className="text-purple-900">.</span>
               </h1>
               <p className="font-semibold text-gray-500 my-4">
-                Developing beautiful and functional websites is what I love doing, and thats why I give my all in every new challenge.
+                Developing beautiful and functional websites is what I love doing, and that&apos;s why I give my all in every new challenge.
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
